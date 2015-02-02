@@ -1,0 +1,1 @@
+/Users/QiongchengXu/Documents/Android/Intents/SourceFiles/Skeletons/IntentsLab1/app/build/intermediates/classes/debug

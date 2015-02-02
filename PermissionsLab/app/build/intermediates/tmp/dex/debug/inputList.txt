@@ -1,0 +1,2 @@
+/Users/QiongchengXu/Documents/Android/Intents/SourceFiles/Skeletons/PermissionsLab/app/build/intermediates/classes/debug
+/Users/QiongchengXu/Documents/Android/Intents/SourceFiles/Skeletons/PermissionsLab/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-943bcb9c612172cb0e35058c7b8a4c0e16f2bbb0.jar
